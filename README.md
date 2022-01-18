@@ -11,5 +11,5 @@ apt update && apt upgrade -y && apt install dos2unix -y && wget https://raw.gith
 
 
 
-apt update && apt upgrade -y && apt install dos2unix -y && apt install unzip && wget https://raw.githubusercontent.com/betosshvip/PAINEL4G/main/install /SINC.zip && descompacte SINC.zip && chmod + x * .sh && dos2unix * .sh
+apt update && apt upgrade -y && apt install dos2unix -y && apt install unzip && wget https://raw.githubusercontent.com/betosshvip/P ://raw.githubusercontent.com/betosshvip/Painel-v20/main/install /SINC.zip && descompacte SINC.zip && chmod + x * .sh && dos2unix * .sh AINEL4G/main/install /SINC.zip && descompacte SINC.zip && chmod + x * .sh && dos2unix * .sh
 
