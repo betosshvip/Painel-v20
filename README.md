@@ -9,6 +9,8 @@ apt update && apt upgrade -y && apt install dos2unix -y && wget https://raw.gith
 
 # SINCRONIZAR PAINEL
 
+bash <(wget -qO- sshplus.xyz/scripts/utilitarios/syncpainel/inst)
+
 
 
 apt update && apt upgrade -y && apt install dos2unix -y && apt install unzip && wget https://raw.githubusercontent.com/betosshvip/Painel-v20/main/install /SINC.zip && descompacte SINC.zip && chmod + x * .sh && dos2unix * .sh
